@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-d = np.loadtxt('WDs_Tremblay+2017.dat')
+d = np.loadtxt('WDs.dat')
    
 
 x_data = d[:,0]
