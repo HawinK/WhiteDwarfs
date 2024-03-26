@@ -11,7 +11,6 @@ X = d[:,0] # first column
 Y = d[:,1] # second column
 YERR = d[:,2] # third column
 
-# now that we loaded the data, we can plot!
 
 # here we set the size of the plot, you can change to whatever is best
 fig = plt.figure(figsize=(7,6))
